@@ -5,6 +5,7 @@ Project Name: Online Library Management System
 Semester: 5th Semester
 Project Objective:
 To provide an efficient system for managing library books and user records.
+To efficiently manage library books and records for students and staff.
 
 Project Description:
 The system will help manage library books and provide basic book management features.
