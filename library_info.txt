@@ -4,7 +4,7 @@ Subject: Application Build and Release Automation Lab
 Project Name: Online Library Management System
 Semester: 5th Semester
 Project Objective:
-To develop an Online Library Management System for managing books and library records efficiently.
+To provide an efficient system for managing library books and user records.
 
 Project Description:
 The system will help manage library books and provide basic book management features.
